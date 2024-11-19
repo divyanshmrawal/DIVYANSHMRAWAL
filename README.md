@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyanshmrawal&theme=" alt="divyanshmrawal" /></a> </p>
 
-- 🌱 I’m currently learning **C , C++ , Java , HTML , CSS , Javascript **
-
+- 🌱 I’m currently learning **DSA(data-structures) in JAVA**
 - 📫 How to reach me **divyanshmrawal@gmail.com**
 - 👨‍💻 All of my projects are available at **my GitHub account**
 - ⚡ Fun fact **HP, Microsoft and Apple have one very interesting thing in common – they were all started in a garage.**
