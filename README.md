@@ -1,9 +1,8 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Divyansh Rawal</h1>
 <h3 align="center">A passionate Software engineering student from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshmrawal&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshmrawal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyanshmrawal&theme=" alt="divyanshmrawal" /></a> </p>
+<br>
 
 - 🌱 I’m currently learning **DSA(data-structures) in JAVA**
 - 📫 How to reach me **divyanshmrawal@gmail.com**
@@ -21,12 +20,12 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
 
-<h3 align="center">Stars</h3>
+<h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshmrawal&layout=compact&theme=blue-green" alt=divyanshmrawal />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=divyanshmrawal&show_icons=true&locale=en&theme=blue-green" alt="divyanshmrawal" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshmrawal&theme=blue-green" alt="divyanshmrawal" /></p>
+<p>&nbsp;<img align="left" height="180em"src="https://github-readme-stats.vercel.app/api?username=divyanshmrawal&show_icons=true&locale=en&theme=blue-green" alt="divyanshmrawal" /></p>
+<br>
+<p><img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshmrawal&theme=blue-green" alt="divyanshmrawal" /></p>
 
 
 <!-- <a href="https://github.com/divyanshmrawal"> -->
