@@ -25,8 +25,8 @@
 
 <p>&nbsp;<img align="left" height="180em"src="https://github-readme-stats.vercel.app/api?username=divyanshmrawal&show_icons=true&locale=en&theme=blue-green" alt="divyanshmrawal" /></p>
 <br>
-<p><img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshmrawal&theme=blue-green" alt="divyanshmrawal" /></p>
-
+<!-- <p><img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshmrawal&theme=blue-green" alt="divyanshmrawal" /></p>
+ -->
 
 <!-- <a href="https://github.com/divyanshmrawal"> -->
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=divyanshmrawal&theme=blue_green" height="180em" />
@@ -34,6 +34,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divyanshmrawal&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=divyanshmrawal&theme=blue_green" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyanshmrawal&theme=2077" height="180em" />
-</div> -->
+</div> 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
